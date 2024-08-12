@@ -54,4 +54,3 @@ $Params = @{
 
 Set-AzVMExtension @Params
 
-
